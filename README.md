@@ -11,7 +11,7 @@
             "nDexID": "",
             "nDex": "",
             "name": "",
-            "pageLink: ""
+            "pageLink": ""
         }
     }
 }
@@ -26,7 +26,7 @@
         "nDexID": "",
         "nDex": "",
         "name": "",
-        "pageLink: ""
+        "pageLink": ""
     }
 }
 ```
